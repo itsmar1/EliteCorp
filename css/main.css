@@ -25,3 +25,37 @@
 }
 
 /* End Upper Bar */
+
+
+
+
+/* Start Navbar */
+.navbar-brand span {
+    font-size: 3rem;
+}
+
+.navbar-brand span:first-child {
+    color: #08526D;
+    font-weight: bold;
+}
+
+.navbar-brand span:last-child {
+    color: #ec1c23;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    text-transform: uppercase;
+    margin-left: 20px;
+    color:  #08526D;
+    font-weight: bold;
+}
+
+.navbar-nav .active>.nav-link {
+    color: #ec1c23 !important;
+}
+
+/* End Navbar */
+
+
+
+
