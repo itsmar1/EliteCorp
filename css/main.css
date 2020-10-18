@@ -83,6 +83,28 @@
     background-image: url('../img/slider03.jpg');
 }
 
+.slider .carousel-inner {
+    position: flex;
+    align-items: center;
+    justify-content: left;
+}
+
+.slider .carousel-inner h1 {
+    position: absolute;
+    color: #FFF;
+    z-index: 3;
+    font-size: 4rem;
+    top: 25%;
+    left: 10%;
+}
+
+.slider .carousel-inner h1 span {
+    background-color: #ec1c23;
+    display: inline-block;
+    padding: 2px 10px;
+    line-height: 1.5;
+}
+
 .slider .carousel-inner .overlay {
     position: absolute;
     width: 100%;
