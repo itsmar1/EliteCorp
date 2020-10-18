@@ -122,6 +122,31 @@
 
 /* End Slider */
 
+body {
+    height: 2000px;
+}
 
+/* Start Features */
 
+.features {
+    padding: 3rem 0;
+}
+
+.features i {
+    background-color: #ec1c23;
+    color: #FFF;
+    padding: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+.features h3 {
+    color: #08526D;
+}
+
+.features p {
+    color: #989898;
+    margin-bottom: 2rem;
+}
+
+/* End Features */
 
