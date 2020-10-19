@@ -263,6 +263,44 @@
 
 
 
+/* Start Latest Post */
+
+.latest-post {
+    padding: 0;
+}
+
+.latest-post h2 {
+    text-transform: capitalize;
+    font-weight: bold;
+    margin-bottom: 2.5rem;
+    font-size: 3rem;
+}
+
+.latest-post .section-description {
+    line-height: 1.5;
+    font-size: 1.25rem;
+    color: #6a6a6a;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 2.5rem;
+}
+
+.latest-post .card {
+    margin-bottom: 2rem;
+}
+
+.latest-post .card .card-title {
+    color: #08526D;
+    margin-bottom: 1rem;
+}
+
+.latest-post .card .card-link {
+    color: #ec1c23;
+    font-weight: bold;
+}
+
+/* End Latest Post */
+
 
 
 
