@@ -259,6 +259,12 @@
     width: 100%;
 }
 
+.featured-work .shuffle-images {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
 /* End Featured Work */
 
 
@@ -301,6 +307,102 @@
 
 /* End Latest Post */
 
+
+/* Start Testimonials */
+
+/* End Testimonials */
+
+
+/* Start Pricing Table */
+
+.pricing-table .card {
+    margin-bottom: 2rem;
+}
+
+.pricing-table .card:hover {
+    top: -2rem;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+
+.pricing-table .card .card-link:hover {
+    background-color: #08526D;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+
+.pricing-table {
+    background-color: #f7f7f7;
+    padding: 100px 0 100px;
+}
+
+.pricing-table h2 {
+    text-transform: capitalize;
+    font-weight: bold;
+    margin-bottom: 2.5rem;
+    font-size: 3rem;
+}
+
+.pricing-table .section-description {
+    line-height: 1.5;
+    font-size: 1.25rem;
+    color: #6a6a6a;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 2.5rem;
+}
+
+
+.pricing-table .card .card-title {
+    color: #08526D;
+    margin-bottom: 1rem;
+    font-size: 2rem;
+    line-height: 1.5;
+    margin-top: 2rem;
+}
+
+.pricing-table .card .card-link {
+    color: #fff;
+    font-weight: bold;
+    display: inline-block;
+    margin: 2rem 0 5rem;
+    background-color: #ec1c23;
+    padding: .5rem 2rem;
+    text-transform: uppercase;
+}
+
+.pricing-table .card .card-text {
+    margin: 2rem 0;
+    background-color: #f7f7f7;
+    padding: .8rem;
+    font-size: 2rem;
+    font-weight: bold;
+    color: #08526D;
+}
+
+.pricing-table .card .card-text span {
+    font-size: 1rem;
+    text-transform: uppercase;
+    font-weight: normal;
+}
+
+.pricing-table .card .card-body {
+    padding: 0;
+}
+
+.pricing-table .list-group-item {
+    border: none;
+}
+
+.pricing-table .corporate .card-text {
+    background-color: #ec1c23;
+    color: #FFF;
+}
+/* Start Pricing Table */
 
 
 

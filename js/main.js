@@ -16,5 +16,6 @@ $(function(){
             $('.shuffle-images .row .col-md').css('opacity', '.08');
             $($(this).data('class')).parent().css('opacity', '1');
         }
-    })
+    });
+
 });
