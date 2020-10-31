@@ -406,6 +406,54 @@
 
 
 
+/* Start Why Choose Us */
+
+.choose-us .col-6 {
+    padding: 0;
+}
+
+.choose-us .col-6:last-child {
+    background-color: #08526D;
+    color: #FFF;
+}
+
+.choose-us h2 {
+    margin: 4rem 2rem 2rem;
+    font-weight: bold;
+    font-size: 2.5rem;
+    text-transform: capitalize;
+}
+
+.choose-us p {
+    margin: 2rem;
+    color: #b5c3c9;
+}
+
+.choose-us .view-more {
+    display: inline-block;
+    margin: 2rem;
+    padding: .8rem 2rem;
+    color: #FFF;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 1rem;
+    background-color: #ec1c23;
+    text-decoration: none;
+    font-family: 'Lato', sans-serif;
+    cursor: pointer;
+    letter-spacing: 2px;
+}
+
+.choose-us .view-more:hover {
+    background-color: #08526D;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+/* End Why Choose Us */
+
+
 
 
 
