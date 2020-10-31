@@ -456,6 +456,69 @@
 
 
 
+/* Start Statistics */
+
+.stats {
+    color: #08526D;
+    padding: 6rem 0;
+}
+
+.stats .number {
+    display: block;
+    color: #08526D;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.stats p {
+    text-transform: uppercase;
+    color: #ec1c23;
+    font-weight: bold;
+    letter-spacing: 2px;
+    line-height: 1.3rem;
+}
+
+/* End Statisctics */
+
+
+
+/* Start Contact Us */
+
+.contact-us {
+    background-color: #ec1c23;
+    padding: 4rem 0;
+    color: #fff;
+}
+
+.contact-us p {
+    font-size: 2rem;
+    margin-right: 1rem;
+}
+
+.contact-us a {
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    border: 2px solid #fff;
+    padding: .5rem 1.5rem;
+    letter-spacing: 2px;
+    cursor: pointer;
+    font-family: 'Lato', sans-serif;
+    line-height: 46px;
+    box-sizing: border-box;
+}
+
+.contact-us a:hover {
+    background-color: #08526D;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+/* End Contact Us */
+
+
 
 
 
