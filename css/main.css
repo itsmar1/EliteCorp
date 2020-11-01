@@ -623,6 +623,39 @@
 /* End Footer */
 
 
+/* Start Copyright */
+
+.copyright {
+    background-color: #f7f7f7;
+    border-top: 1px solid #dde4e5;
+    padding: 1.5rem 0;
+}
+
+.copyright ul li {
+    display: inline-block;
+    margin-left: 1.5rem;
+    font-size: 1.4rem;
+}
+
+.copyright ul li a {
+    color: #a0a0a0;
+}
+
+.copyright ul li a:hover {
+    color: #ec1c23;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+
+.copyright p {
+    color: #666;
+}
+
+/* End Copyrigh */
+
+
 
 
 
