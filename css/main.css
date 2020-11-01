@@ -519,6 +519,110 @@
 /* End Contact Us */
 
 
+/* Start Footer */
+
+.footer {
+    padding: 7rem 0;
+    background-color: #f7f7f7;
+}
+
+.footer .site-info h2 {
+    font-size: 3rem;
+    margin-bottom: 2rem;
+}
+
+.footer .site-info span:first-of-type {
+    color: #08526D;
+    font-weight: bold;
+}
+
+.footer .site-info span:last-of-type {
+    color: #ec1c23;
+}
+
+.footer .site-info p {
+    color: #6a6a6a;
+    line-height: 1.6;
+}
+
+.footer .site-info a {
+    color: #08526D;
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: 500;
+}
+
+.footer .site-info a::before {
+    font-family: 'FontAwesome';
+    content: '\f138';
+    display: inline-block;
+    margin-right: .4rem;
+}
+
+.footer .site-info a:hover {
+    color: #ec1c23;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+
+.footer .helpful-links h2,
+.footer .contact h2 {
+    color: #08526D;
+    margin-bottom: 2rem;
+    font-weight: 400;
+}
+
+.footer .helpful-links ul li::before {
+    font-family: 'FontAwesome';
+    content: "\f054";
+    display: inline-block;
+    margin-right: .4rem;
+    color: #989898;
+}
+
+.footer .helpful-links ul li {
+    margin-bottom: .8rem;
+}
+
+.footer .helpful-links ul li a {
+    color: #08526D;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.footer .helpful-links ul li a:hover {
+    color: #ec1c23;
+    margin-left: .3rem;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+
+.footer .contact ul li {
+    margin-bottom: .8rem;
+    line-height: 1.6;
+    color: #6a6a6a;
+}
+
+.footer .contact ul li a {
+    text-decoration: none;
+    color: #08526D;
+}
+
+.footer .contact ul li a:hover {
+    color: #ec1c23;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+
+/* End Footer */
+
+
 
 
 
